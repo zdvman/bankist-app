@@ -67,6 +67,14 @@ To log in:
 
 Here’s a visual flow of the app's main logic:
 
+![image](https://github.com/user-attachments/assets/c7c9c64b-74ff-4f83-945e-a25995ec7b66)
+
+---
+
+## Images
+
+![image](https://github.com/user-attachments/assets/af911d46-a09c-4496-9b86-096b415cd101)
+
 ---
 
 ## 📚 Acknowledgements
