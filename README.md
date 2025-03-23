@@ -6,6 +6,12 @@ This app showcases advanced array methods, DOM manipulation, internationalizatio
 
 ---
 
+## 📸 Preview
+
+[https://zdvman-bankist-app.netlify.app/](https://zdvman-bankist-app.netlify.app/)
+
+---
+
 ## ✨ Features
 
 - User login with username and PIN
@@ -77,19 +83,36 @@ Here’s a visual flow of the app's main logic:
 
 ---
 
-## 📚 Acknowledgements
+## 🙋‍♂️ About the Developer
 
-This project is a part of the **[JavaScript course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)**. A fantastic course for mastering JavaScript and building real-world projects.
+I'm **Dmytro Zuiev**, a passionate self-taught frontend developer. I built this project as part of my journey to master JavaScript and create visually engaging and performant websites.
 
----
-
-## 🙋‍♂️ About Me
-
-Hi! I’m [zdvman](https://github.com/zdvman), a passionate learner diving into full-stack development through interactive projects and advanced JavaScript practice.
-
-- 🔗 [GitHub](https://github.com/zdvman)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zdvman/)
+- GitHub: [@zdvman](https://github.com/zdvman)
+- LinkedIn: [zdvman](https://www.linkedin.com/in/zdvman)
 
 ---
 
-Thanks for checking out the **Bankist App**! 🚀
+## 🧠 Acknowledgements
+
+This project is heavily inspired by the teachings of [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) as part of his _Complete JavaScript Course_.
+It is recreated for **educational** and **portfolio** purposes only.
+
+---
+
+## ✅ Status
+
+✔️ Fully functional
+🧪 Tested in modern browsers
+📱 Not fully responsive – feel free to improve it!
+
+---
+
+## 📝 License
+
+This project is intended for personal learning and portfolio use only.
+Please do not redistribute as your own product or use it commercially.
+
+---
+
+Thanks for visiting!
+If you liked this project, consider giving it a ⭐️ on GitHub!
